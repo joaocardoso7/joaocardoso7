@@ -1,4 +1,4 @@
-## Hi there 👋<h1 align="center">Olá, eu sou o João Vitor 👋</h1> <h3 align="center">Estudante de Engenharia de Software | Embarcados & IoT | Produção Audiovisual</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Construindo+coisas+com+ESP32+e+C%2B%2B;Do+audiovisual+para+o+c%C3%B3digo;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+por+vez" alt="Typing SVG" /> </p>
+<h1 align="center">Olá, eu sou o João Vitor 👋</h1> <h3 align="center">Estudante de Engenharia de Software | Embarcados & IoT | Produção Audiovisual</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Construindo+coisas+com+ESP32+e+C%2B%2B;Do+audiovisual+para+o+c%C3%B3digo;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+por+vez" alt="Typing SVG" /> </p>
 🚀 Sobre mim
 🎓 Cursando Engenharia de Software na Unicesumar (Maringá/PR)
 🎬 Trabalho no setor de audiovisual da universidade, operando som e vídeo para salas e auditórios
