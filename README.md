@@ -37,20 +37,7 @@
 - 🏡 **Automação do sítio** — relés, sensores PIR/LDR e painel web via ESP32
 - 📚 Evoluindo em C++ e C, com treinamentos diários e aprofundados
 
----
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaocardoso7&show_icons=true&theme=default&hide_title=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaocardoso7&theme=default" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocardoso7&layout=compact&theme=default" width="48%" />
-</p>
-
----
 
 ### 📫 Como me encontrar
 
