@@ -75,7 +75,6 @@ Projeto pessoal para explorar como a tecnologia pode ser aplicada em um ambiente
 
 **Objetivo:** experimentar sistemas embarcados e automação para tornar tarefas cotidianas mais práticas.
 
-> Projeto em desenvolvimento.
 
 ### 🌾 Tecnologia aplicada ao agronegócio
 
