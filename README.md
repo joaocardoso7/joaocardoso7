@@ -96,6 +96,7 @@ Essa experiência fortalece habilidades que levo para a programação: criativid
 - Fundamentos de Engenharia de Software.
 - Eletrônica, sistemas embarcados e IoT.
 - Banco de dados e análise de dados.
+- Implementação, analise e criação de sistemas.
 - Versionamento de código com Git e GitHub.
 
 ## 📫 Vamos nos conectar?
